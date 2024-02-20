@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192692190967",
+    "project_id": "mishw2-16a71",
+    "storage_bucket": "mishw2-16a71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192692190967:android:eb97c38f7386d932aaddf2",
+        "android_client_info": {
+          "package_name": "com.example.mis_hm2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEKn8R2bLDWcnnii4X9mmt4ldAQdX-7Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
